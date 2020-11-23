@@ -3,3 +3,6 @@
 
 # VSCode
 .vscode/
+
+# Visual Paradigm for UML
+*.vpp~*
